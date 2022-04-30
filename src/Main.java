@@ -55,15 +55,4 @@ public class Main {
         System.out.println("Total monthly wage is " +totalwagepermonth);
         System.out.println("Total hours in month" + Dailyhours_sum);
     }}
-        // if(Emp_check==2){
-        //    System.out.println("Employee is Wage is Full Time");
-        //    System.out.println("Working hour is "+Full_day_hour);
-        // }else if (Emp_check==1){
-        //     System.out.println("Employee is Wage is Part Time");
-        //    System.out.println("Working hour is 4");
-        // }else{
-        //     System.out.println("Employee is Absent");
-
-
-
-
+      
